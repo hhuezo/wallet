@@ -28,7 +28,7 @@
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     <!-- {{ config('app.name', 'Laravel') }}-->
-                    <p style="color:#313945;"> <strong>Gerencia de Operaciones </strong></p>
+                    <p style="color:#313945;"> <strong>Administración de inversiones </strong></p>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>

@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Operaciones</title>
+    <title>Wallet</title>
 
     <!-- Bootstrap -->
     <link href="{{ asset('vendors/bootstrap/dist/css/bootstrap.min.css') }}" rel="stylesheet">
@@ -58,7 +58,7 @@
 
                     <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
                         <div class="menu_section">
-                            <h3>Operaciones</h3>
+                            <h3>Wallet</h3>
                             <ul class="nav side-menu">
                                 @can('read users')
                                 <li><a><i class="fa fa-users"></i> Seguridad <span class="fa fa-chevron-down"></span></a>
